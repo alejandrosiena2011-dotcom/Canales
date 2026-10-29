@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://raw.githubusercontent.com/alejandrosiena2011-dotcom/Logos-png/refs/heads/main/america-tv-seeklogo.png" group-title="Nacional",America TV
+http://138.59.227.20:8000/play/a094/index.m3u8
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://i.imgur.com/ZK7AQFg.png" group-title="Nacional",El trece
+http://138.59.227.20:8000/play/a07b/index.m3u8
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://i.imgur.com/wrZfMXn.png" group-title="Nacional",Telefe
+http://138.59.227.20:8000/play/a08a/index.m3u8
+#EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://camo.githubusercontent.com/f214a53f9120715748ba74bdb8996e3b68bdf1b2fd803f126be4833f0943c6d4/68747470733a2f2f692e696d6775722e636f6d2f45746356536d342e706e67" group-title="Nacional",El nueve
+http://138.59.227.20:8000/play/a08k/index.m3u8
+#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://raw.githubusercontent.com/alejandrosiena2011-dotcom/Logos-png/refs/heads/main/a24-media-seeklogo.png" group-title="Nacional",A24
+http://138.59.227.20:8000/play/a05u/index.m3u8
+#EXTINF:-1 tvg-id="LN+.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/02-LN.png?raw=true" group-title="Nacional",La Nacion TV
+http://138.59.227.20:8000/play/a05y/index.m3u8
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://i.postimg.cc/cJ0GKH76/Cronica-TV-logotipo-(2016).png" group-title="Nacional",Crónica
+http://138.59.227.20:8000/play/a05w/index.m3u8
+#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tn-todo-noticias-ar.png?raw=true" group-title="Nacional",TN
+http://138.59.227.20:8000/play/a097/index.m3u8
+#EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://i.postimg.cc/gjQPrH4v/C5N-Logo-2015.png" group-title="Nacional",C5N
+http://138.59.227.20:8000/play/a05v/index.m3u8
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://radiosargentina.com.ar/png/VI--26TV.png" group-title="Nacional",26TV
+http://138.59.227.20:8000/play/a05x/index.m3u8
+#EXTINF:-1 tvg-id="Volver.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/e5e262a0a5e42c025e296159e95fe0c45afad7c2/icons/05-Volver.png?raw=true" group-title="Nacional",Volver
+http://138.59.227.20:8000/play/a066/index.m3u8
+#EXTINF:-1 tvg-id="CineAr.ar" tvg-logo="https://raw.githubusercontent.com/alejandrosiena2011-dotcom/Logos-png/refs/heads/main/cine-ar-logo-png_seeklogo-519561.png" group-title="Nacional",Cine.AR
+http://138.59.227.20:8000/play/a069/index.m3u8
+#EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-logo="https://radiosargentina.com.ar/png/VIGARAGE.png" group-title="Nacional",El Garage TV
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CGARAGETV__
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alejandrosiena2011-dotcom/Logos-png/refs/heads/main/Ae_logo_PNG2.png" group-title="Cultura",A&E HD
+http://138.59.227.20:8000/play/a09h/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alejandrosiena2011-dotcom/Logos-png/refs/heads/main/discovery-channel-seeklogo.png" group-title="Cultura",Discovery Channel
+http://138.59.227.20:8000/play/a08g/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alejandrosiena2011-dotcom/Logos-png/refs/heads/main/DiscoveryH%2526H2022.webp" group-title="Cultura",Discovery H&H
+http://138.59.227.20:8000/play/a08f/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alejandrosiena2011-dotcom/Logos-png/refs/heads/main/discovery-science-seeklogo.png" group-title="Cultura",Discovery Science
+http://138.59.227.20:8000/play/a06p/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alejandrosiena2011-dotcom/Logos-png/refs/heads/main/theater-discovery-hd-seeklogo.png" group-title="Cultura",Discovery Theater HD
+http://138.59.227.20:8000/play/a074/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alejandrosiena2011-dotcom/Logos-png/refs/heads/main/discovery-turbo-television-channel-discovery-chann-5ae242c2a7be57-7776958815247776666871.png" group-title="Cultura",Discovery Turbo
+http://138.59.227.20:8000/play/a062/index.m3u8
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/History-Channel-Logo.png" group-title="Cultura",History Channel
+http://138.59.227.20:8000/play/a090/index.m3u8
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/History-Channel-Logo.png" group-title="Cultura",The History Channel HD
+http://138.59.227.20:8000/play/a09g/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/c/c9/History_2_%282019-.n.v.%29.png/revision/latest?cb=20190116195020" group-title="Cultura",History 2
+http://138.59.227.20:8000/play/a06n/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkF0CkB7/kisspng-logo-national-geographic-society-television-channe-morgan-freeman-revelations-entertainment.png" group-title="Cultura",Nat Geo HD
+http://138.59.227.20:8000/play/a09f/index.m3u8
+#EXTINF:-1 tvg-id="66a92375cd0d31000847b219" tvg-name="Monstruos De Rio" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3e935eb3-3c68-41ee-8e2e-5b8c37a1fbf1/023_FAST-RM-latam_LOGO_1500x100-DARK-Plex.png" channel-id="608049aefa2b8ae93c2c3a63-68dcb497250f81dfec9091d7" group-title="Entretenimiento",Monstruos De Rio
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-68dcb497250f81dfec9091d7/?X-Plex-Token=1Fk5Rb2vKTc7nogVK7n9
+#EXTINF:-1 tvg-id="643054b1fc3be59477853717-6615885e1eabecf2c9d56495" tvg-name="Monster Jam" tvg-logo="https://provider-static.plex.tv/epg/cms/production/23824964-562b-4498-9eaa-d6262cb7e0c3/Monster_Jam_Logo_on_Transparent_1500x1000_Casey_Murawski.png" channel-id="643054b1fc3be59477853717-6615885e1eabecf2c9d56495" group-title="Entretenimiento",Monster Jam
+https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-6615885e1eabecf2c9d56495/?X-Plex-Token=VXkMBg4tbiFGy5uqhvoy
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alejandrosiena2011-dotcom/Logos-png/refs/heads/main/playboy-tv-logo-png_seeklogo-314680.png" group-title="+18",Playboy
+http://138.59.227.20:8000/play/a077/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alejandrosiena2011-dotcom/Logos-png/refs/heads/main/Sextreme_logo.png" group-title="+18",Sextreme
+http://138.59.227.20:8000/play/a079/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alejandrosiena2011-dotcom/Logos-png/refs/heads/main/canal-venus-logo-png_seeklogo-463134.png" group-title="+18",Venus
+http://138.59.227.20:8000/play/a078/index.m3u8
